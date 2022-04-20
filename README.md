@@ -4,7 +4,7 @@ This is a mini weather app where you can find the temp of a particular city.
 I used google api to fetch the temperature of the cities.
 
 # Deploy Link
-https://github.com/Kapil5849Jadon/Weather_App.git
+https://kapiljadon5849-weather-mini-app.netlify.app/
 
 # Technology I Used :computer: 
 1. HTML5
