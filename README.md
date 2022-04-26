@@ -7,7 +7,7 @@ I used google api to fetch the temperature of the cities.
 https://kapiljadon5849-weather-mini-app.netlify.app/
 
 # Snapshots
-![Screenshot (1298)](https://cdn-images-1.medium.com/max/1200/1*VfFYRVhg30nIdqO1cihJ_Q.png)
+![Screenshot (1298)](https://cdn-images-1.medium.com/max/1200/1*5B7ZvgmRLi2qxw6Du345dA.png)
 
 # Technology I Used :computer: 
 1. HTML5
