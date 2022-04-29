@@ -6,9 +6,6 @@ I used google api to fetch the temperature of the cities.
 # Deploy Link
 https://kapiljadon5849-weather-mini-app.netlify.app/
 
-# Snapshots
-![Screenshot (1298)](https://cdn-images-1.medium.com/max/1200/1*5B7ZvgmRLi2qxw6Du345dA.png)
-
 # Technology I Used :computer: 
 1. HTML5
 2. CSS3
@@ -17,3 +14,8 @@ https://kapiljadon5849-weather-mini-app.netlify.app/
 - Clone the repository `https://github.com/Kapil5849Jadon/Weather_App.git`
 - Then Open the code in your VS code
 - At last Open the `index.html` with Live server
+
+
+# Snapshots
+![Screenshot (1298)](https://cdn-images-1.medium.com/max/1200/1*5B7ZvgmRLi2qxw6Du345dA.png)
+
