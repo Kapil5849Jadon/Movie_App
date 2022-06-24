@@ -1,7 +1,5 @@
 # Weather_App
-This is a mini weather app where you can find the temp of a particular city.
-
-I used google api to fetch the temperature of the cities.
+Solo Project Build to get weather data as per users location or User can also search for their respective city or they can also pick up any location from the provided google map.
 
 # Deploy Link
 https://kapiljadon5849-weather-mini-app.netlify.app/
@@ -10,12 +8,26 @@ https://kapiljadon5849-weather-mini-app.netlify.app/
 1. HTML5
 2. CSS3
 3. JavaScript
+4. Google Map API
+5. GeoLoaction API
+6. Open Weather API
 
 - Clone the repository `https://github.com/Kapil5849Jadon/Weather_App.git`
 - Then Open the code in your VS code
-- At last Open the `index.html` with Live server
+- At last Open the `weather_app.html` with Live server
 
 
 # Snapshots
-![Screenshot (1298)](https://cdn-images-1.medium.com/max/1200/1*5B7ZvgmRLi2qxw6Du345dA.png)
+**Current Weather Data**
+
+![Screenshot (51)](https://i.ibb.co/MPzWN49/weather-app.png)
+
+**Weather Data Forcast for whole week**
+
+![Screenshot (55)](https://i.ibb.co/qRkFP5S/weather-app-1.png)
+
+
+**Loader**
+
+![Screenshot (56)](https://i.ibb.co/h1NGhWT/weather-4.png)
 
