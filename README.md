@@ -18,8 +18,9 @@ https://kapiljadon5849-weather-mini-app.netlify.app/
 
 
 # Snapshots
-**Current Weather Data**
 
-![Screenshot (51)](https://i.ibb.co/MPzWN49/weather-app.png)
+![Screenshot (1298)](https://cdn-images-1.medium.com/max/1200/1*1vf7sbzMeXUuZvTChz2UFQ.png)
+
+![Screenshot (1300)](https://cdn-images-1.medium.com/max/1200/1*CiFiJ9jpq36ZGFMbyAQgNQ.png)
 
 
