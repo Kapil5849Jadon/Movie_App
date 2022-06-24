@@ -22,12 +22,4 @@ https://kapiljadon5849-weather-mini-app.netlify.app/
 
 ![Screenshot (51)](https://i.ibb.co/MPzWN49/weather-app.png)
 
-**Weather Data Forcast for whole week**
-
-![Screenshot (55)](https://i.ibb.co/qRkFP5S/weather-app-1.png)
-
-
-**Loader**
-
-![Screenshot (56)](https://i.ibb.co/h1NGhWT/weather-4.png)
 
