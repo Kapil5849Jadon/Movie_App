@@ -12,7 +12,9 @@ const successCallback = function (position) {
 const errorCallback = function (error) {
   // console.log(error);
   locationError();
-  initMap(28.3158, 77.7772);
+  initMap(28.4068, 77.8527);
+  
+  
 };
 navigator.geolocation.getCurrentPosition(successCallback, errorCallback);
 //End of getting device location.
